@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ccdd0cf5f03f033798c9d99a1b731bc638e86ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

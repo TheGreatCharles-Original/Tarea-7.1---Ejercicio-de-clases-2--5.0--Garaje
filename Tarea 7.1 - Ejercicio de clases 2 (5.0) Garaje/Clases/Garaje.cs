@@ -29,6 +29,25 @@ namespace Tarea_7._1___Ejercicio_de_clases_2__5._0__Garaje.Clases.Clases
             Ocupado = ocupado;
         }
 
+        public void Update(double espaciosSolicitados)
+        {
+            if (espaciosSolicitados <= 0)
+            {
+                WriteLine("La cantidad de espacios que solicita tiene que ser mayor a cero");
+                return;
+            }
+            if (Ocupado + espaciosSolicitados > Capacidad)
+            {
+                WriteLine("No hay suficiente espacio");
+            }
+            else
+            {
+                Ocupado += espaciosSolicitados;
+                WriteLine($"{espaciosSolicitados} espacios ocupados correctamente");
+            }
+
+        }
+
         public double Disponibles() //Metodo
         {
             return Capacidad - Ocupado;

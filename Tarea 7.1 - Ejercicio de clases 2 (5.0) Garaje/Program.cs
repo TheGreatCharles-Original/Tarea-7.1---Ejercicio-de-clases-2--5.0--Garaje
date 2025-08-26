@@ -14,6 +14,17 @@ namespace Tarea_7._1___Ejercicio_de_clases_2__5._0__Garaje.Clases.Clases
         {
             Garaje TooHardd = new Garaje(); // Se intancia para poder llamar a cosas del Garage
 
+
+            WriteLine("Solicitando 30 espacios...");
+            TooHardd.Update(30);
+
+            WriteLine($"Espacios disponibles ahora: {TooHardd.Disponibles()}");
+
+            WriteLine("Intentando ocupar 80 espacios...");
+            TooHardd.Update(80);
+
+            WriteLine("");
+
             TooHardd.Informacion();
             ReadLine();
 
