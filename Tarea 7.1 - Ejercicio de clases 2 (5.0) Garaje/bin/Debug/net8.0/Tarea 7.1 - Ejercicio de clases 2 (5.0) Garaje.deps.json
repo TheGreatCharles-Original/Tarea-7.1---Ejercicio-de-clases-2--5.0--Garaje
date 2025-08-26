@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje/1.0.0": {
+        "runtime": {
+          "Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\bin\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.exe
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\bin\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.deps.json
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\bin\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.runtimeconfig.json
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\bin\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.dll
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\bin\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.pdb
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.dll
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\refint\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.dll
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.pdb
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\GitHub\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje\obj\Debug\net8.0\ref\Tarea 7.1 - Ejercicio de clases 2 (5.0) Garaje.dll
